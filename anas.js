@@ -5,6 +5,7 @@ function anas(props) {
     return (
         <div>
             <button>click</button>
+            <div ClassName = "test"></div> 
         </div>
     )
 }
