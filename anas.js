@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 function anas(props) {
     return (
         <div>
-            
+            <button>click</button>
         </div>
     )
 }
