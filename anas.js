@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 function anas(props) {
     return (
         <div>
-            <button>click</button>
+            <button>click me</button>
             <div ClassName = "test"></div> 
             <button>click moi</button>
         </div>
