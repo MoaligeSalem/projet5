@@ -7,6 +7,7 @@ function anas(props) {
             <button>click me</button>
             <div ClassName = "test"></div> 
             <button>click moi</button>
+            <div className="input">search</div>
         </div>
     )
 }
